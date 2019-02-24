@@ -64,3 +64,11 @@ html {
   div.container {
     padding: 0px 20px;
   }
+
+  span.temp {
+    font-weight: bold;
+    border: 2px solid red;
+    background-color: pink;
+    border-radius: 15px;
+    padding: 5px 8px 4px 8px;
+  }
