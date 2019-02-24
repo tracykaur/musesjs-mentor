@@ -1,2 +1,2 @@
 # musesjs-mentor
-Mentor Coding Practice
+Mentor Coding Practice for upcoming workshop
